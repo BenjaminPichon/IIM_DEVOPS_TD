@@ -1,0 +1,22 @@
+{
+  "name": "iim_devops_td",
+  "version": "1.0.0",
+  "description": "API pour le td",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminPichon/IIM_DEVOPS_TD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminPichon/IIM_DEVOPS_TD/issues"
+  },
+  "homepage": "https://github.com/BenjaminPichon/IIM_DEVOPS_TD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
